@@ -1,1 +1,1 @@
-django rest and react project
+Django REST 
